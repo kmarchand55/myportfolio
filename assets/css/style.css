@@ -6,6 +6,10 @@
   }
 
 
+body{
+  font-family: Helvetica, Arial, sans-serif; 
+}
+
   /* apply styles to <header> */
 header {
     padding: 20px 35px;
@@ -53,6 +57,13 @@ header {
       text-align: center;
       background-color:#bbbbbb ;
     }
-  }
+  
+    section p{
+     
+      color: #000011;
+      font-size: 50px;
+      text-align: left;
+
+    }
 
   
